@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with kissing your mama
 - 💬 Ask me about how i met your mother
 - 📫 How to reach me: dont reach me!
-- 😄 Pronouns: AH62 Apache
+- 😄 Pronouns: AH-64/Apache
 - ⚡ Fun fact: I'm not really funny
 -->
 
