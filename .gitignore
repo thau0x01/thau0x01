@@ -1,0 +1,24 @@
+# Generated files by Hugo
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Node modules (if using npm packages)
+node_modules/
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log

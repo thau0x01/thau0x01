@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Information Security Specialist"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Information Security Specialist focused on Red Team operations and offensive security"
+
+[params.author]
+  name = "Information Security Specialist"
+  email = ""  # Update with your email
+  image = ""  # Add your profile image path (e.g., "img/profile.jpg")
+  headline = "Red Team Operations | Penetration Testing | Cybersecurity"
+  bio = "Specialized in offensive security, vulnerability assessment, and helping organizations strengthen their security posture through ethical hacking and red team exercises."
+  links = [
+    # { x-twitter = "https://twitter.com/yourusername" },
+    # { github = "https://github.com/yourusername" },
+    # { linkedin = "https://linkedin.com/in/yourusername" },
+  ]
