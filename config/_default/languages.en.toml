@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Information Security Specialist"
+title = "thau0x01"
 
 [params]
   displayName = "English"
@@ -11,13 +11,13 @@ title = "Information Security Specialist"
   description = "Information Security Specialist focused on Red Team operations and offensive security"
 
 [params.author]
-  name = "Information Security Specialist"
+  name = "thau0x01"
   email = ""  # Update with your email
   image = ""  # Add your profile image path (e.g., "img/profile.jpg")
   headline = "Red Team Operations | Penetration Testing | Cybersecurity"
-  bio = "Specialized in offensive security, vulnerability assessment, and helping organizations strengthen their security posture through ethical hacking and red team exercises."
+  bio = "Information Security Specialist specialized in offensive security, vulnerability assessment, and helping organizations strengthen their security posture through ethical hacking and red team exercises."
   links = [
-    # { x-twitter = "https://twitter.com/yourusername" },
-    # { github = "https://github.com/yourusername" },
-    # { linkedin = "https://linkedin.com/in/yourusername" },
+    # { x-twitter = "https://twitter.com/thau0x01" },
+    { github = "https://github.com/thau0x01" },
+    # { linkedin = "https://linkedin.com/in/thau0x01" },
   ]

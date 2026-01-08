@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://YOUR_USERNAME.github.io"  # Update with your GitHub username
+baseURL = "https://thau0x01.sh"
 defaultContentLanguage = "en"
 disableLanguages = []
 
