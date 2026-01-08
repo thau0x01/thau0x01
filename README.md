@@ -1,152 +1,30 @@
-# Personal Resume Website
+<h1 align="center">Hi 👋, I'm thau0x01</h1>
+<h3 align="center">A passionate Red Team Operator</h3>
 
-A personal resume website built with [Hugo](https://gohugo.io/) and the [Blowfish](https://blowfish.page/) theme, configured for deployment to GitHub Pages.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thau0x01" alt="thau0x01" /></a> </p>
 
-## Overview
+- 🔭 I’m currently working on **a farm to get rid of computers ASAP**
 
-This website serves as a professional portfolio and resume for an Information Security Specialist focused on Red Team operations, penetration testing, and offensive security.
+- 🌱 I’m currently learning **Electrical Engineering**
 
-## Features
+- 📝 I regularly write articles on [https://blog.pirateship.sh](https://blog.pirateship.sh)
 
-- Clean, modern design using the Blowfish theme
-- Responsive layout that works on all devices
-- Dark mode support with automatic switching
-- Sections for:
-  - About/Professional Summary
-  - Work Experience
-  - Education
-  - Technical Skills
-  - Professional Certifications
-  - Security Projects
+- 📫 How to reach me **dont-reach-me@localhost**
 
-## Prerequisites
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thau0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thau0x01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thau0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thau0x01" height="30" width="40" /></a>
+<a href="https://instagram.com/thau0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thau0x01" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/thau0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thau0x01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thau0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thau0x01" height="30" width="40" /></a>
+</p>
 
-- [Hugo Extended](https://gohugo.io/installation/) (v0.152.2 or later)
-- [Git](https://git-scm.com/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## Getting Started
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thau0x01&show_icons=true&locale=en&layout=compact" alt="thau0x01" /></p>
 
-1. **Clone the repository** (or if you haven't pushed to GitHub yet, initialize git):
-   ```bash
-   git clone <your-repo-url>
-   cd thau0x01
-   ```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thau0x01&show_icons=true&locale=en" alt="thau0x01" /></p>
 
-2. **Initialize and update the theme submodule**:
-   ```bash
-   git submodule update --init --recursive
-   ```
-
-3. **Update the baseURL** in `config/_default/hugo.toml`:
-   ```toml
-   baseURL = "https://YOUR_USERNAME.github.io"
-   ```
-   Replace `YOUR_USERNAME` with your GitHub username.
-
-4. **Update author information** in `config/_default/languages.en.toml`:
-   - Add your name, email, and profile image path
-   - Add links to your social profiles (GitHub, Twitter, LinkedIn, etc.)
-
-5. **Preview the site locally**:
-   ```bash
-   hugo server
-   ```
-   Then visit `http://localhost:1313` in your browser.
-
-6. **Build the site**:
-   ```bash
-   hugo
-   ```
-   This generates the static site in the `public/` directory.
-
-## Customization
-
-### Content
-
-Edit the markdown files in the `content/` directory:
-
-- `content/_index.md` - Homepage
-- `content/about.md` - About/Professional Summary
-- `content/experience/` - Work experience entries
-- `content/education/` - Education entries
-- `content/skills/` - Technical skills
-- `content/certifications/` - Professional certifications
-- `content/projects/` - Security projects and research
-
-### Configuration
-
-Edit configuration files in `config/_default/`:
-
-- `hugo.toml` - Main Hugo configuration (baseURL, site metadata)
-- `params.toml` - Theme parameters (colors, layouts, features)
-- `menus.toml` - Navigation menu structure
-- `languages.en.toml` - Language configuration including author profile information
-
-### Theme
-
-The Blowfish theme is included as a Git submodule. To update it:
-
-```bash
-git submodule update --remote themes/blowfish
-```
-
-For more customization options, see the [Blowfish documentation](https://blowfish.page/docs/).
-
-## Deployment to GitHub Pages
-
-This repository is configured to automatically deploy to GitHub Pages using GitHub Actions.
-
-### Setup Instructions
-
-1. **Create a GitHub repository** (if you haven't already):
-   - Repository name: `YOUR_USERNAME.github.io` (replace with your GitHub username)
-   - Or use a custom repository name
-
-2. **Push your code to GitHub**:
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   git push -u origin main
-   ```
-
-3. **Enable GitHub Pages**:
-   - Go to your repository on GitHub
-   - Navigate to Settings → Pages
-   - Under "Source", select "GitHub Actions"
-   - The workflow will automatically build and deploy your site
-
-4. **Update the baseURL** (if using a custom repository name):
-   - If your repository is `YOUR_USERNAME.github.io`, the site will be at `https://YOUR_USERNAME.github.io`
-   - If using a custom repository name, the site will be at `https://YOUR_USERNAME.github.io/REPOSITORY_NAME/`
-   - Update the `baseURL` in `config/_default/hugo.toml` accordingly
-
-### Manual Deployment (Alternative)
-
-If you prefer to deploy manually:
-
-1. Build the site:
-   ```bash
-   hugo
-   ```
-
-2. Push the `public/` directory to the `gh-pages` branch:
-   ```bash
-   git subtree push --prefix public origin gh-pages
-   ```
-
-## Future Enhancements
-
-- Cyberpunk color scheme customization
-- Custom CSS/styling modifications
-- Advanced theme customization
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Credits
-
-- Built with [Hugo](https://gohugo.io/)
-- Theme: [Blowfish](https://github.com/nunocoracao/blowfish) by [nunocoracao](https://github.com/nunocoracao)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thau0x01&" alt="thau0x01" /></p>
